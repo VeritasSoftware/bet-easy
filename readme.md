@@ -10,7 +10,9 @@ The front-end app has:
 To run the front-end UI Angular app:
 
 1. Open folder **bet-easy-ui** in Visual Code.
-2. In the power shell terminal type: ng serve
+2. Open an Integrated Terminal from View menu and type: 
+    *   npm install 
+    *   ng serve
 3. Navigate to http://localhost:4200 in the browser.
 
 **Screenshot**:
