@@ -15,7 +15,9 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
     this.service.get().subscribe(results => {
-      this.items = results.body.result;
+      if (results != null && results.body != null) {
+        this.items = results.body.result;
+      }      
     });    
   }
 
