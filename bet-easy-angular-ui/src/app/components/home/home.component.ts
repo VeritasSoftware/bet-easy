@@ -15,7 +15,6 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
     this.service.get().subscribe(results => {
-      //alert(results.body.result.length);
       this.items = results.body.result;
     });    
   }
