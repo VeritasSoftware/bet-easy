@@ -1,4 +1,5 @@
 # Front End Challenge
+## Angular 6 app
 
 I have created a front-end app in **Angular 6** for the front-end coding challenge.
 
@@ -9,7 +10,7 @@ The front-end app has:
 
 To run the front-end UI Angular app:
 
-1. Open folder **bet-easy-ui** in Visual Code.
+1. Open folder **bet-easy-angular-ui** in Visual Code.
 2. Open an Integrated Terminal from View menu and type: 
     *   npm install 
     *   ng serve
