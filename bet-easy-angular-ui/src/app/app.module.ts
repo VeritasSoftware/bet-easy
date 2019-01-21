@@ -5,6 +5,8 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { HttpClientModule } from '@angular/common/http';
+
+import { AppConfigModule } from './app-config.module';
 import { HomeComponent } from './components/home/home.component';
 import { BetEasyService } from './services/bet-easy-service';
 
@@ -16,7 +18,8 @@ import { BetEasyService } from './services/bet-easy-service';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    AppConfigModule
   ],
   providers: [BetEasyService],
   bootstrap: [AppComponent]
