@@ -15,7 +15,7 @@ To run the front-end UI Angular app:
 
 **Screenshot**:
 
-![Screen shot](https://github.com/VeritasSoftware/bet-easy/blob/master/src/UI.jpg)
+![Screen shot](https://github.com/VeritasSoftware/bet-easy/blob/master/UI.jpg)
 
 # .NET Code Challenge
 
