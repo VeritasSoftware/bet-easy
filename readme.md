@@ -3,12 +3,12 @@
 
 I have created a front-end app in **Angular 6** for the front-end coding challenge.
 
-The front-end app has:
+### The front-end app has
 
 *	A Service called **BetEasyService** which makes a call to the Bet Easy API using **HttpClient** and fetches the data.
 *	A Component called **Home** to display the data fetched by the Service. The html content is bootstrapped.
 
-To run the front-end Angular app:
+### To run the front-end Angular app
 
 1. Open folder **bet-easy-angular-ui** in Visual Studio Code.
 2. Open an Integrated Terminal from View menu and type: 
@@ -23,7 +23,7 @@ You can see it on the link below:
 
 [**Beteasy**](https://bet-easy-ui.firebaseapp.com/)
 
-**Screenshot**:
+### Screenshot
 
 ![Screen shot](https://github.com/VeritasSoftware/bet-easy/blob/master/UI.jpg)
 
