@@ -18,9 +18,10 @@ To run the front-end Angular app:
 
 ### Deployed to Firebase
 
-The app has been deployed to **Firebase**, in the cloud:
+The app has been deployed to **Firebase**, in the cloud.
+You can see it on the link below:
 
-[**Beteasy**](https://bet-easy-ui.firebaseapp.com/);
+[**Beteasy**](https://bet-easy-ui.firebaseapp.com/)
 
 **Screenshot**:
 
