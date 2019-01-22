@@ -16,6 +16,12 @@ To run the front-end Angular app:
     *   ng serve
 3. Navigate to http://localhost:4200 in the browser.
 
+### Deployed to Firebase
+
+The app has been deployed to **Firebase**, in the cloud:
+
+[**Beteasy**](https://bet-easy-ui.firebaseapp.com/);
+
 **Screenshot**:
 
 ![Screen shot](https://github.com/VeritasSoftware/bet-easy/blob/master/UI.jpg)
